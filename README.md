@@ -1,3 +1,3 @@
-# spam_classification
+# Spam Classification
 
-The following code is for classification of mail into spam using text processing and spam mail data 
+Different types of mail need classifaction to segregate important ones from spams. Thus this code seperates spam mail from others using text processing and spam mail data.
